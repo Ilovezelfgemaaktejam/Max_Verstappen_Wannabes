@@ -1,7 +1,7 @@
 #Zet jezelf ff op deze lijst als je meegaat.
 #Geef ook ff aan of je daadwerkelijk wil karten of gewoon meegaat voor de gezelligheid.
 
-Naam		  Karten		eigen vervoer
+Naam		  Karten	     Eigen vervoer
 Ruben		  ja		     ja
 Senna		  ja		     nee
 Martijn           ja                 nee
